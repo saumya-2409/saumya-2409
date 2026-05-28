@@ -19,6 +19,6 @@
 📌 Interests: ML research, intelligent assistants, backend systems, and practical problem-solving.
 
 📫 Reach me:
-- 🔗 [LinkedIn](www.linkedin.com/in/saumya-garg-1ab39224b) • 📧 Email: saumyagarg.2409@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/saumya-garg-1ab39224b/) • 📧 Email: saumyagarg.2409@gmail.com
 ---
 Thanks for stopping by! ✨
