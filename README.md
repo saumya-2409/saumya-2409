@@ -46,7 +46,7 @@ Classified student depression/anxiety severity from the DASS-21 questionnaire (N
 A responsive web app to fill in a form and download a clean resume as PDF. [Live demo](https://automated-resume-builder.vercel.app/)
 
 ### 🌱 Early-stage startup work: JityAI
-Part-time contributor on the founding team of JityAI (incubated at JITO Foundation) from Jan to Aug 2026. I supported the lead engineer on [WHAT IT DOES], including [YOUR PART, e.g. agent-based LLM workflows, testing and debugging AI-generated code].
+Part-time contributor on the founding team of JityAI (incubated at JITO Foundation) from Jan to Aug 2026. I supported the lead engineer on agent-based LLM workflows, testing and debugging AI-generated code.
 
 ### 🏥 Mpox skin lesion classification (team research project)
 During my research internship at GEU I worked with a team of three on the early version of an Mpox skin-lesion classifier, including the Streamlit/Flask prototype. The dataset and later versions are maintained by Priya Dhaila: [monkeypox-skin-lesion2.0](https://github.com/Priyadhaila01/monkeypox-skin-lesion2.0).
